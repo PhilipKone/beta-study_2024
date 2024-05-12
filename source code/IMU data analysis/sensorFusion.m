@@ -1,0 +1,1 @@
+data = readtable('right_foot.txt');
